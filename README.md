@@ -65,7 +65,7 @@ python app.py
 
 ## Demo
 
-
+![Demo](assets/demo.gif)
 
 ## References
 * https://www.youtube.com/watch?v=aiH79Q-LGjY
